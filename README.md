@@ -35,6 +35,6 @@
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarev3)](https://github.com/cesarev3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cesarev3&theme=dracula)](https://github.com/cesarev3/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarev3&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cesarev3&show_icons=true&theme=dracula)  
