@@ -1,12 +1,14 @@
 # Olá! Sou o **Cesar** 👋
 
-## Estou em transição de carreira para a área de tecnologia, onde já atuei por muitos anos na linha de frente juntos aos clientes, oferecendo soluções personalizadas e agora quero fazer parte do time que desenvolve estas soluções!
+## Sou Engenheiro DevOps na área de Transformação digital. Já atuei por muitos anos na linha de frente juntos aos clientes, oferecendo soluções personalizadas e agora quero fazer parte do time que desenvolve estas soluções!
 
-### *Sou apaixonado por codar e tudo se iniciou em 1983, quando comprei meu primeiro TK85, que possuia meros 48K de memória RAM e armazenamento em fita cassete. Mesmo com este hardware limitado consegui desenvolver aplicativos em BASIC e Assembler. De lá para cá, eu continuei programando por hobby, com soluções para desktop e robótica. Profissionalmente programei por 5 anos após concluir a faculdade e voltei a ativa dando aula de C++ e Python em 2017.*
+### *Sou apaixonado por codar e tudo se iniciou em 1983, quando comprei meu primeiro TK85, que possuia meros 48K de memória RAM e armazenamento em fita cassete. Mesmo com este hardware limitado consegui desenvolver aplicativos em BASIC e Assembler. De lá para cá, eu continuei programando por hobby, com soluções para desktop e robótica. Hoje integro sistemas, crio e sustento esteiras de CI/CD, administro ambientes Cloud, scripts em Bash, Powershell e Python e agentes internos com AI.*
 <br>
 
 
 ### Desenvolvimento e Certificações
+- 🌱 Anhanguera - Pós-Graduação e Arquitetura avançada em Azure Cloud
+- 🌱 TFTEC - Formação em Cloud e Devops
 - 🌱 Ada Tech - Formação em Backend: Java, Postgresql e Spring
 - 🌱 The Cloud Bootcamp - Formação em Multicloud (AWS, Azure, GCP e OCI) e DevOps
 - 📃 Certificações:
@@ -31,7 +33,7 @@
 
 ### Linkedin
 <div align="left"> 
-  <a href="https://www.linkedin.com/in/daniel-vieira-9a9680127/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/carlos-cesar-pereira-cloud/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"></a> 
 </div>
 <br>
 
